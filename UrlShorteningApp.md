@@ -1,4 +1,6 @@
 # URL Shortening App Guide
+![image](https://github.com/Academixedu/Projects/assets/43459668/91644638-4ec1-4b5d-893e-a6fd77fbe708)
+
 
 This document outlines the steps to create a URL Shortening Application. The app generates shorter aliases for long URLs, making them easier to share and manage. It utilizes Java (Spring Boot) for the backend, React for the frontend, and MongoDB for data storage.
 
