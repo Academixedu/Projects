@@ -1,3 +1,6 @@
+![image](https://github.com/Academixedu/Projects/assets/43459668/bbade333-6028-4bc6-8cb7-2830f306fc37)
+
+
 # Task Management App Notes
 The Task Management App is designed to streamline and enhance the efficiency of managing daily tasks and projects. It serves as a comprehensive tool for individuals and teams to organize workloads, prioritize tasks, and track the progress of various activities. The app facilitates a user-friendly interface for adding, updating, and deleting tasks, alongside features for setting deadlines, assigning tasks to team members, and categorizing tasks into different projects or categories.
 
