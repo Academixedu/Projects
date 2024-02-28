@@ -1,4 +1,6 @@
 # Small eCommerce Application Guide
+![image](https://github.com/Academixedu/Projects/assets/43459668/71569e86-36e7-4fb8-ad6b-3c14424ea9bf)
+
 
 This document outlines the steps to create a small eCommerce application using Java (Spring Boot) for the backend and React for the frontend. The application features product listings, a simple checkout process, and basic user authentication.
 
