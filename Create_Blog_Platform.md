@@ -1,5 +1,5 @@
-markdown
-Copy code
+![image](https://github.com/Academixedu/Projects/assets/43459668/8048cac7-14f5-4608-87dc-73c472200df6)
+
 # Blog Platform Project Overview
 
 A Blog Platform built with Spring Boot for the backend, React for the frontend, and MongoDB for the database, featuring user profiles, comments, and post management.
