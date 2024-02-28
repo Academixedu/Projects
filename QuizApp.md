@@ -1,4 +1,6 @@
 # Quiz App Guide
+![image](https://github.com/Academixedu/Projects/assets/43459668/b29fa8b9-53be-4ec0-8ae5-ba30a9d40bd9)
+
 
 This document outlines the development of a Quiz Application. The app allows users to take quizzes, see questions with multiple-choice answers, and get their scores at the end. It utilizes Java (Spring Boot) for the backend, React for the frontend, and MongoDB for data storage.
 
