@@ -1,4 +1,5 @@
-![image](https://github.com/Academixedu/Projects/assets/43459668/8048cac7-14f5-4608-87dc-73c472200df6)
+![image](https://github.com/Academixedu/Projects/assets/43459668/9591cf7f-bdc2-4a7f-81c8-fb9cdcbf3947)
+
 
 # Blog Platform Project Overview
 
