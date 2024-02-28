@@ -1,4 +1,5 @@
 # Task Management App Notes
+The Task Management App is designed to streamline and enhance the efficiency of managing daily tasks and projects. It serves as a comprehensive tool for individuals and teams to organize workloads, prioritize tasks, and track the progress of various activities. The app facilitates a user-friendly interface for adding, updating, and deleting tasks, alongside features for setting deadlines, assigning tasks to team members, and categorizing tasks into different projects or categories.
 
 ## Backend (Spring Boot)
 
